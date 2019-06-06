@@ -111,5 +111,9 @@ friends: [
     {
         title: "海岛心hey",
         href: "https://fehey.com/"
+    },
+    {
+        title: "Eric's Blog",
+        href: "https://blog.eric-mo.top"
     }
 ]
